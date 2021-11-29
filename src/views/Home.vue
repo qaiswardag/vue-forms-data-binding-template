@@ -44,8 +44,6 @@ export default {
       terms: false,
       skills: [],
       tempSkill: '',
-      movies: [],
-      tempMovie: '',
       passwordError: null,
     }
   },
